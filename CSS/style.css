@@ -1,0 +1,371 @@
+     *{
+        margin: 0px;
+        padding: 0;
+    }
+     body{
+        background-color: bisque;
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 0;
+    }
+    header{
+        font-size: xx-large;
+        text-align: center;
+        padding: 0;
+        background-color: orange;
+    }
+    
+    
+    main{
+        width:100%;
+        margin: 0 auto;
+        
+     }
+     main article img.dance {
+        width:100%;
+     }
+     .Company {
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        background-color:yellowgreen;
+        box-shadow: 3px 4px 7px white;
+        font-size: xx-large;
+        margin: 15px auto;
+        color: red;
+     }
+     .Company h2{
+        color: rgb(236, 112, 197);
+     }
+
+    .Information{
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: yellowgreen;
+        box-shadow: 3px 4px 7px orange;
+        padding: 15px;
+        font-size: larger;
+        margin: 15px auto;
+     }
+     
+     .Target{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background-color: rgb(242, 145, 84);
+        box-shadow: 3px 4px 7px red;
+        padding: 15px;
+        font-size: larger;
+        margin: 25px auto;
+     }
+     .Offer{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background-color: rgb(230, 157, 197);
+        box-shadow: 3px 4px 7px rgb(97, 173, 232);
+        padding: 15px;
+        font-size: larger;
+        margin: 25px auto;
+     }
+     .Offer section{
+        font-size: x-large;
+        color: rgb(242, 12, 89);
+        font-display: bold;
+     }
+     main article img.About{
+        width: 100%;
+        margin: 25px auto;
+     }
+    .Information section{
+        color: brown;
+        font-size: x-large;
+        font-style: bold;
+        margin: 5px;
+    } 
+    
+    article h2{
+        margin: 20px 0;
+        text-align: center;
+    }
+  
+    .images{
+        display:flex;
+        justify-content: space-between;
+    }
+    
+    div.Events{
+        font-size: medium;
+        font-style: normal;
+        text-transform: lowercase;
+        text-align: justify;
+        
+    }
+    .Wimages{
+        display: flex;
+        justify-content: space-between;
+    }
+    .Workshops{
+        font-size: large;
+        font-style: normal;
+        background-color: rgb(243, 219, 8);
+        box-shadow: 3px 4px 7px rgb(229, 8, 8);
+        color: rgb(239, 11, 11);
+        margin: 15px 2em;
+        text-align: center;
+    }
+    
+    .Workshops h2{
+        color: brown;
+    }
+    
+    .Values{
+        font-size: larger;
+        font-style: normal;
+        background-color: rgb(237, 156, 173);
+        box-shadow: 3px 4px 7px rgb(123, 204, 233);
+        color: rgb(16, 15, 16);
+        margin: 15px;
+        list-style-type: lower-roman;
+        text-align: center;
+        
+    }
+    .Values h2{
+        color: brown;
+        text-align: center;
+        
+    }
+    .Instructors1{
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: yellowgreen;
+        box-shadow: 3px 4px 7px orange;
+        padding: 15px;
+        font-size: larger;
+        margin: 15px auto;
+        text-align: center;
+        color: rgb(44, 54, 238);
+    }
+    .Instructors1 section{
+        font-size: larger;
+        text-align: center;
+        color: rgb(241, 44, 77);
+        margin: 25px auto;
+    }
+    .Instructors1 h3{
+        margin: 25px auto;
+        color:rgb(241, 44, 77);
+    }
+    .Instructors1 h2{
+        color:rgb(241, 44, 77);
+    }
+    .Instructors2{
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: rgb(250, 145, 191);
+        box-shadow: 3px 4px 7px orange;
+        padding: 15px;
+        font-size: larger;
+        margin: 15px auto;
+        text-align: center;
+        color: rgb(207, 246, 9);
+    }
+    .Instructors2 section{
+        font-size: larger;
+        text-align: center;
+        color: rgb(241, 44, 77);
+        margin: 25px auto;
+    }
+    .Instructors2 h3{
+        color: red;
+    }
+    .Instructors2 h2{
+        color: red;
+    }
+    
+    .Instructors3{
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: yellowgreen;
+        box-shadow: 3px 4px 7px orange;
+        padding: 15px;
+        font-size: larger;
+        margin: 15px auto;
+        text-align: center;
+        color: rgb(44, 54, 238);
+    }
+    .Instructors3 section{
+        font-size: larger;
+        text-align: center;
+        color: rgb(241, 44, 77);
+        margin: 25px auto;
+    }
+    .Instructors3 h3{
+        color: red;
+    }
+    .Instructors3 h2{
+        color: red;
+    }
+    main article img.contact{
+        width: 100%;
+        
+    }
+    .Address{
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: yellowgreen;
+        box-shadow: 3px 4px 7px orange;
+        padding: 15px;
+        font-size: larger;
+        margin: 15px auto;
+        text-align: center;
+    }
+    .Address h2{
+     color:brown;
+    }
+    .Address h3{
+        color: rgb(233, 39, 152);
+    }
+    .Phone{
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: yellowgreen;
+        box-shadow: 3px 4px 7px orange;
+        padding: 15px;
+        font-size: larger;
+        margin: 15px auto;
+        text-align: center;
+    }
+    
+     .Phone h3{
+        color:rgb(233, 39, 152);
+     }
+     .Email{
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: yellowgreen;
+        box-shadow: 3px 4px 7px orange;
+        padding: 15px;
+        font-size: larger;
+        margin: 15px auto;
+        text-align: center;
+     }
+     
+     .Email h3{
+        color: rgb(233, 39, 152);
+     }
+     .Social{
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: yellowgreen;
+        box-shadow: 3px 4px 7px orange;
+        padding: 15px;
+        font-size: larger;
+        margin: 15px auto;
+        text-align: center;
+     }
+     
+     
+     .Social h3{
+        color: rgb(233, 39, 152);
+     }
+    footer{
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: italic;
+        float: right;
+        background-color: aqua;
+        margin: 10px;
+        
+    }
+    .info{
+        background-color: aqua;
+    }
+    @media screen and (min-width:200px) and (max-width:480px){
+        header h1{
+          padding: .75em;
+          image-orientation: center;
+        }
+        nav{
+            font-size: 1.3em;
+            width: 80%;
+            margin: 0 auto;
+  
+    
+           }
+        nav ul{
+          margin:0;
+          padding: .1em;
+          }
+        nav li{
+          background-color: yellowgreen;
+          border-radius: 1em;
+          list-style-type: none;
+          width: 100%;
+          margin-bottom: 1em;
+        }     
+        nav a {
+          padding: .8em;
+          display: inline-block;
+          width:100%;
+          text-align: center;
+        }
+    
+        
+       }   
+     @media screen and (min-width: 481px) and (max-width:768px){
+       header h1{
+        padding: 25px;
+        text-align: center;
+        background-color: orange;
+       }
+        nav{
+            background-color: yellow;
+            font-size: 1.4em;
+            margin: 0;
+            padding: 0;
+            text-align: center; 
+
+            
+        }
+        nav ul{
+            margin: 25px;
+            padding: 0;
+            text-align: center;
+
+        }
+        nav li{
+            display: inline;
+        }
+        nav a{
+            display: inline-block;
+            padding: 1em;
+            text-decoration: none;
+        }
+    }
+    @media screen and (min-width:769px){
+        header{
+            padding: 1em;
+            width: 100%;
+            text-align: center;
+            overflow: hidden;
+        }
+        header h1{
+            display:inline;
+         }
+        nav{
+            background-color: aqua;
+            font-size: 1.4em;
+            margin: 0;
+            padding: 0;
+            text-align: center; 
+            
+            
+        }
+        nav ul{
+            margin: 0;
+            display: inline;
+            padding-right: 1em;
+         }
+        nav ul li{
+            display: inline-block;
+            list-style-type: none;
+            
+            
+         }
+        nav ul li a {
+            text-decoration: none;
+            padding: 1em;
+            display: block;
+            color: black;
+            font-size: 1.2em;
+            line-height: 1em;
+            
+        }
+    }
+     
+     
